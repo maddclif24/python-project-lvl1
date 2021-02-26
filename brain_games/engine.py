@@ -20,7 +20,7 @@ Correct answer was \'{answer}\'.''')
             return
         print('Correct!')
         correct_answer_count += 1
-    print(f'Congratulation, {player_name}!')
+    print(f'Congratulations, {player_name}!')
 
 
 def play_game(description, question_and_answer):
