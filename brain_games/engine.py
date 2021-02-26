@@ -19,6 +19,7 @@ Correct answer was \'{answer}\'.''')
             print(f"Let's try again, {player_name}!")
             return
         print('Correct!')
+        correct_answer_count += 1
     print(f'Congratulation, {player_name}!')
 
 
